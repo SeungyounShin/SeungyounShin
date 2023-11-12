@@ -19,8 +19,26 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Let's make changes. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+## Work Experience
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+**NAVER CLOUD**  
+*Software Engineer*  
+September 2023 - January 2024  
+(TBD)
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+**mAyI**  
+*Software Developer*  
+June 2019 - September 2019  
+Developed a Real-Time Face Detector which enhanced the analytical capabilities of security systems.
+
+## Education
+
+**Korea University**  
+*M.S. in Artificial Intelligence*  
+September 2022 - Expected Graduation: August 2024  
+Pursuing a Master's degree in Artificial Intelligence, focusing on the development of machine learning models and their applications.
+
+**Dongguk University**  
+*B.S. in Computer Science*  
+March 2018 - August 2022  
+Completed a Bachelor of Science degree in Computer Science, gaining a strong foundation in software development, algorithms, and systems design.
