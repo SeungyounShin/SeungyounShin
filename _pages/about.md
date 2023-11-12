@@ -19,7 +19,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-## Work Experience
+### Work Experience
 
 **NAVER CLOUD**  
 *Software Engineer*  
@@ -31,7 +31,7 @@ September 2023 - January 2024
 June 2019 - September 2019  
 Developed a Real-Time Face Detector which enhanced the analytical capabilities of security systems.
 
-## Education
+### Education
 
 **Korea University**  
 *M.S. in Artificial Intelligence*  
