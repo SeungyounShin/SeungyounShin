@@ -2,43 +2,20 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: |+
+  <strong>Master Student</strong> at <a href="http://xai.korea.ac.kr/">Korea University</a>. <br><br>
+  Currently doing intership at <a href="https://www.navercloudcorp.com/">Naver Cloud</a>.
 
 profile:
-  align: right
   image: seungyoun.jpg
-  image_circular: false # crops the image to make it circular
-  address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  image_cicular: false # crops the image to make it circular
+  address: false
 
-news: true  # includes a list of news items
-latest_posts: true  # includes a list of the newest posts
+news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-### Work Experience
+**Research:** As a researcher in machine learning, I am focused on developing scalable methods for modeling, analyzing and generating complex, high-dimensional data. My interest spans multiple areas, including generative modeling, representation learning, probabilistic inference, AI safety, and AI for science.  My ultimate goal is to address problems that have wide-ranging significance, develop methods that are both accessible and effective, and build intelligent systems that can improve human lives.
 
-**NAVER CLOUD**  
-*Software Engineer*  
-September 2023 - January 2024  
-(TBD)
-
-**mAyI**  
-*Software Developer*  
-June 2019 - September 2019  
-Developed a Real-Time Face Detector which enhanced the analytical capabilities of security systems.
-
-### Education
-
-**Korea University**  
-*M.S. in Artificial Intelligence*  
-September 2022 - Expected Graduation: August 2024  
-Pursuing a Master's degree in Artificial Intelligence, focusing on the development of machine learning models and their applications.
-
-**Dongguk University**  
-*B.S. in Computer Science*  
-March 2018 - August 2022  
-Completed a Bachelor of Science degree in Computer Science, gaining a strong foundation in software development, algorithms, and systems design.
+**Previously:** I received my Ph.D. in Computer Science from [Stanford University](https://www.stanford.edu), advised by [Stefano Ermon](https://cs.stanford.edu/~ermon). I was a research intern at [Google Brain](https://research.google/teams/brain/), Uber ATG, and [Microsoft Research](https://www.microsoft.com/en-us/research/lab/microsoft-research-cambridge/). I obtained my Bachelor's degree in Mathematics and Physics from [Tsinghua University](https://www.tsinghua.edu.cn/), where I worked with [Jun Zhu](http://ml.cs.tsinghua.edu.cn/~jun/index.shtml), [Raquel Urtasun](http://www.cs.toronto.edu/~urtasun/), and [Richard Zemel](http://www.cs.toronto.edu/~zemel/inquiry/home.php).
