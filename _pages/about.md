@@ -3,8 +3,8 @@ layout: about
 title: about
 permalink: /
 subtitle: |+
-  <strong>Master Student</strong> at <a href="http://xai.korea.ac.kr/">Korea University</a>. <br><br>
-  Currently doing intership at <a href="https://www.navercloudcorp.com/">Naver Cloud</a>.
+  I'm currently an intern at <a href="https://www.navercloudcorp.com/">Naver Cloud</a>, working with the Creativity Lab team.<br> I'm also a Master's student in Artificial Intelligence at <a href="http://xai.korea.ac.kr/">Korea University</a>, supervised by professor <a href="https://sites.google.com/view/sungjoon-choi/personal">Sungjoon Choi</a>.
+
 
 profile:
   image: seungyoun.jpg
