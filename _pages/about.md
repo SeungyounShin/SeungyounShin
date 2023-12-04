@@ -16,6 +16,15 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-**Research:** As a researcher in machine learning, I am focused on developing scalable methods for modeling, analyzing and generating complex, high-dimensional data. My interest spans multiple areas, including generative modeling, representation learning, probabilistic inference, AI safety, and AI for science.  My ultimate goal is to address problems that have wide-ranging significance, develop methods that are both accessible and effective, and build intelligent systems that can improve human lives.
+**Research Interest:** 
 
-**Previously:** I received my Ph.D. in Computer Science from [Stanford University](https://www.stanford.edu), advised by [Stefano Ermon](https://cs.stanford.edu/~ermon). I was a research intern at [Google Brain](https://research.google/teams/brain/), Uber ATG, and [Microsoft Research](https://www.microsoft.com/en-us/research/lab/microsoft-research-cambridge/). I obtained my Bachelor's degree in Mathematics and Physics from [Tsinghua University](https://www.tsinghua.edu.cn/), where I worked with [Jun Zhu](http://ml.cs.tsinghua.edu.cn/~jun/index.shtml), [Raquel Urtasun](http://www.cs.toronto.edu/~urtasun/), and [Richard Zemel](http://www.cs.toronto.edu/~zemel/inquiry/home.php).
+Large Language Model (LLM), Self-Reflection, Embodied AI
+
+**Education**
+- **Master of Science in Artificial Intelligence**, [Start Date: September 2022, Ongoing]. Advisor: Sungjoon Choi. Department of Artificial Intelligence.
+- **Bachelor of Science in Computer Science**, [Duration: March 2018 - August 2022]. Dongguk University.
+
+
+**Work Experience:** 
+- 2023.08 - 2024.01: [NAVER Cloud](https://www.navercloudcorp.com/), Creativity Lab Intern
+- 2019.06 - 2019.09: [mAyI](https://may-i.io/), Software Engineer Intern
