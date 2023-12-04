@@ -11,18 +11,18 @@ profile:
   image_cicular: false # crops the image to make it circular
   address: false
 
-news: true # includes a list of news items
+news: false # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
 **Research Interest:** 
 
-Large Language Model (LLM), Self-Reflection, Embodied AI
+Large Language Model (LLM), Self-Reflection, Embodied AI 🧠
 
 **Education**
-- **Master of Science in Artificial Intelligence**, [Start Date: September 2022, Ongoing]. Advisor: Sungjoon Choi. Department of Artificial Intelligence.
-- **Bachelor of Science in Computer Science**, [Duration: March 2018 - August 2022]. Dongguk University.
+- **M.S. in Artificial Intelligence**, [Korea University](http://xai.korea.ac.kr/) (Sep 2022 - Present). Advisor: Prof. [Sungjoon Choi.](https://sites.google.com/view/sungjoon-choi/personal)
+- **B.Sc. in Computer Science**, [Dongguk University](https://www.dongguk.edu/main) (Mar 2018 - Aug 2022).
 
 
 **Work Experience:** 
