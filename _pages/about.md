@@ -3,7 +3,9 @@ layout: about
 title: about
 permalink: /
 subtitle: |+
-  I'm currently an intern at <a href="https://www.navercloudcorp.com/">Naver Cloud</a>, working with the Creativity Lab team.<br> I'm also a Master's student in Artificial Intelligence at <a href="http://xai.korea.ac.kr/">Korea University</a>, supervised by professor <a href="https://sites.google.com/view/sungjoon-choi/personal">Sungjoon Choi</a>.
+  <p style="margin-bottom: 10px;">I am a <strong>Master's student in Artificial Intelligence</strong> at <a href="http://xai.korea.ac.kr/">Korea University</a>, supervised by professor <a href="https://sites.google.com/view/sungjoon-choi/personal">Sungjoon Choi</a>. My research interests revolve around Large Language Models (LLMs) and their associated technologies.</p>
+  <p style="margin-bottom: 10px;">I recently completed an internship at <a href="https://www.navercloudcorp.com/">Naver Cloud</a>, where I had the opportunity to work on exciting AI projects. As I approach my <strong>graduation in August 2024</strong>, I am actively seeking <strong>전문연</strong> opportunities to further contribute to the field of AI.</p>
+  <p style="margin-bottom: 10px;">Feel free to reach out to me at <strong><a href="mailto:2022021568@korea.ac.kr">2022021568@korea.ac.kr</a></strong> if you would like to connect or discuss potential collaborations.</p>
 
 
 profile:
@@ -18,7 +20,7 @@ social: true  # includes social icons at the bottom of the page
 
 **Research Interest:** 
 
-Large Language Model (LLM), Self-Reflection, Embodied AI 🧠
+Large Language Models (LLMs), Synthetic Data Generation, Multimodal, Efficient Fine-tuning Strategies
 
 **Education**
 - **M.S. in Artificial Intelligence**, [Korea University](http://xai.korea.ac.kr/) (Sep 2022 - Present). Advisor: Prof. [Sungjoon Choi.](https://sites.google.com/view/sungjoon-choi/personal)
