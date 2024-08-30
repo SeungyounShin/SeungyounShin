@@ -9,3 +9,5 @@ _site
 Gemfile.lock
 vendor
 
+package-lock.json
+package.json
